@@ -1,0 +1,26 @@
+div {
+      min-height: 100px;
+}
+.jumbotron { margin-top: 18px;
+             background-image: url("http://i.imgur.com/6vR1ZqP.jpg");
+             no-repeat center center fixed;
+             -moz-background-size: cover;
+             -o-background-size: cover;
+             background-size: cover;
+             width: 100%;
+}
+body { background-color: #A0939D; }
+h1 { text-align: center;
+     color: #white;
+ }
+ #buttonAlign { text-align: center; }
+#addCity { text-align: center; }
+/*
+#container{ background-image: url("http://i.imgur.com/QotuYjY.jpg");
+            no-repeat center center fixed;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            width: 100%;
+}
+*/
